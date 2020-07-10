@@ -1,0 +1,5 @@
+devpi-lockdown==1.0.1
+devpi-server==5.5.0
+devpi-web==4.0.4
+devpi-client==5.2.0
+devpi-semantic-ui==0.2.2
